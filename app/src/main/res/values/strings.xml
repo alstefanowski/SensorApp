@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+    <string name="missing_sensor">Brak czujnika</string>
+    <string name="download_localization">Pobierz lokalizację</string>
+    <string name="click_locbutton">Wciśnij przycisk, aby pobrać ostatnią lokalizacje</string>
+    <string name="permission_denied">Wstęp zabroniony</string>
+    <string name="sensors_count">Liczba czujników: %d</string>
+    <string name="menu_button">menu</string>
+    <string name="location_next">Szerokość geograficzna: %1$.4f \n Długość
+geograficzna: %2$.4f \n Czas: %3$tr"</string>
+    <string name="error_location">Błąd przy pobieraniu lokalizacji</string>
+    <string name="download_address">Pobierz adres</string>
+    <string name="example_sensor_name">Przykładowa nazwa sensora</string>
+    <string name="example_sensor_value">Przykładowa wartość sensora %f</string>
+    <string name="location_permission_denied">Odmówiono zezwolenia dostępu do lokalizacji</string>
+    <string name="location_text">Szerokość geograficzna: %1$.4f \n Długość geograficzna: %2$.4f \n Czas: %3$tr"</string>
+    <string name="address_text">Adres: %1$s \n Czas: %2$tr</string>
+    <string name="no_location">Brak lokalizacji"</string>
+    <string name="service_not_avaiable">Serwis niedostępny"</string>
+    <string name="no_address_found">Nie znaleziono adresu</string>
+    <string name="sensor_light_label">Jasny sensor label</string>
+</resources>
